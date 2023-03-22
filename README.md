@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/kwonmoon/workit-landing-page)
+- Live Site URL: [Netlify](https://melodic-daffodil-8c41f2.netlify.app/)
 
 ## My process
 
@@ -75,7 +75,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@ykwonmoon](https://www.frontendmentor.io/profile/kwonmoon)
+- Frontend Mentor - [@kwonmoon](https://www.frontendmentor.io/profile/kwonmoon)
 
 ## Acknowledgments
 
