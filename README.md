@@ -79,4 +79,4 @@ To see how you can add code snippets, see below:
 
 ## Acknowledgments
 
-Google and ChatGPT
+Google and ChatGPT, especially ChatGPT
